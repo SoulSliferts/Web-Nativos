@@ -14,3 +14,9 @@ Este proyecto tiene como objetivo crear una plataforma que no solo exhiba joyas 
 
 # Producto
 ![Producto](Producto-Visual.png)
+
+# Copy
+
+Todas las imagenes y partes de la marca Nativos Colombia son unicamente de esta por lo que no se permite la distribucion de este contenido sin permiso del dueño y patente de la marca Nativos: [Nativos Colombia](https://www.instagram.com/nativoscolombia/?hl=es)
+
+- **Todos los derechos de autor reservados para @Nativos Colombia**
